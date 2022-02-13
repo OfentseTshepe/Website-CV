@@ -22,7 +22,7 @@ function Experience() {
                         <ul>
                             <li>
                                 <p>
-                                    Design, develop, test and maintain developed software, graphicalinterface  for finencial assest management componies  using react ,angular C#,java and python
+                                •	Design, develop, test and maintain developed software, graphical interface for financial asset management companies using react, angular ,C#, java and python
                                 </p>
                             </li>
                             <li>

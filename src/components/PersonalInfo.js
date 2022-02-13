@@ -22,7 +22,7 @@ function PersonalInfo() {
                 <Box sx={{ display: "grid", width: "70vw", height: "60vh", backgroundColor: "rgba(23,22,28,0.3)", color: "white", gridTemplateColumns: "1fr 2fr", gridTemplateRows: "repeat(6 ,1fr)" }}>
 
                     {[<><LocationOnOutlinedIcon sx={{color:"#FE805D"}} />   Nationality </>, "South African",
-                      <><LocalPhoneOutlinedIcon sx={{color:"#FE805D"}} />   Cell Phone Number (main)</> , "066 053 8033",
+                      <><LocalPhoneOutlinedIcon sx={{color:"#FE805D"}} />   Cell Phone Number (main)</> , "079 7396 833",
                       <><LocalPhoneOutlinedIcon sx={{color:"#FE805D"}} />   Cell Phone Number (main)</>, "071 8197 098",
                        <><EmailOutlinedIcon sx={{color:"#FE805D"}} />   Email</> , "Booklove.tshepe@gmail.com",
                        <><LinkedIn sx={{color:"#FE805D"}} />   Linkedin</>, <a href="https://www.linkedin.com/in/ofentse-tshepe/"  style={{color :"white"}}>https://www.linkedin.com/in/ofentse-tshepe/</a>,

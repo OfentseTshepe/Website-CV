@@ -22,9 +22,6 @@ const bounce = keyframes`0% {
 
 
 
-
-
-
 function Home() {
     return (
         <Box sx={{ backgroundImage: `url(${pc})`, backgroundSize: "comtain", backgroundRepeat: "no-repeat", width: "100vw" }}>
