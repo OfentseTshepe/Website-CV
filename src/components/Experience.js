@@ -4,7 +4,7 @@ import ribbon from "../assets/Ribbon.svg"
 function Experience() {
     return (
         <Box sx={{ width: "100vw", height: "100vh", backgroundColor: "rgb(31,34,47)" }} id ="Experience">
-            <Box sx={{ heigh: "5vh" }}>
+            <Box sx={{ height: "10vh",display:"flex",justifyContent:"center" }}>
                 <img src={ribbon} alt="no" style={{ width: "100px" }}></img>
             </Box>
             <Box sx={{ color: "#FE805D" }}>

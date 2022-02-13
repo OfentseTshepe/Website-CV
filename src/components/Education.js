@@ -6,7 +6,7 @@ function Education() {
     return (
         <Box sx={{ width: "100vw", height: "100vh", backgroundColor: "#17161c" }} id="Education">
 
-            <Box sx={{ height: "10vh" }}>
+            <Box sx={{ height: "10vh" ,display:"flex",justifyContent:"center"}}>
                 <img src={ribbon} alt="ribbon" style={{ width: "100px" }}></img>
             </Box>
             <Box sx={{ color: "#FE805D" }}>

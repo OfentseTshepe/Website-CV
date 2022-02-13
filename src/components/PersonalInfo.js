@@ -11,7 +11,7 @@ function PersonalInfo() {
 
         <Box container sx={{ width: "100vw", height: "100vh", backgroundColor: "rgb(31,34,47)" }} id ="Contact Info">
 
-            <Box sx={{ heigh: "5vh" }}>
+            <Box sx={{ height: "10vh", display:"flex", justifyContent:"center" }}>
                 <img src={ribbon} alt="no" style={{ width: "100px" }}></img>
             </Box>
             <Box sx={{ color: "#FE805D" }}>
@@ -23,7 +23,7 @@ function PersonalInfo() {
 
                     {[<><LocationOnOutlinedIcon sx={{color:"#FE805D"}} />   Nationality </>, "South African",
                       <><LocalPhoneOutlinedIcon sx={{color:"#FE805D"}} />   Cell Phone Number (main)</> , "079 7396 833",
-                      <><LocalPhoneOutlinedIcon sx={{color:"#FE805D"}} />   Cell Phone Number (main)</>, "071 8197 098",
+                      <><LocalPhoneOutlinedIcon sx={{color:"#FE805D"}} />   Cell Phone Number (secondary)</>, "071 8197 098",
                        <><EmailOutlinedIcon sx={{color:"#FE805D"}} />   Email</> , "Booklove.tshepe@gmail.com",
                        <><LinkedIn sx={{color:"#FE805D"}} />   Linkedin</>, <a href="https://www.linkedin.com/in/ofentse-tshepe/"  style={{color :"white"}}>https://www.linkedin.com/in/ofentse-tshepe/</a>,
                         <><GitHub sx={{color:"#FE805D"}}/>   Github</>, <a href="https://github.com/OfentseTshepe/"  style={{color :"white"}}>https://github.com/OfentseTshepe</a>].map((value, index) => {
