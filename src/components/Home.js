@@ -38,7 +38,7 @@ function Home() {
                             <p style={{ color: "#FE805D ", fontSize: "63px", }}>Ofentse Tshepe</p>
                         </Box>
                         <Box sx={{ height: "10vh" }}>
-                            <p style={{ color: "white ", fontSize: "23px" }}>Computer Engineer and Computer Scientist</p>
+                            <p style={{ color: "white ", fontSize: "23px" }}>Software engineer</p>
                         </Box>
                     </Box>
                 </Box>
